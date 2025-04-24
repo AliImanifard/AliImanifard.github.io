@@ -6,9 +6,9 @@ author_profile: true
 classes: smaller-font
 ---
 
-Thanks for stopping by—it's always a pleasure to connect.
-I'm open to research chats, academic ideas, and collaborative projects that spark curiosity.
-If you're working on something exciting or just want to exchange thoughts, don’t hesitate to reach out.
+Thanks for stopping by—it's always a pleasure to connect.<br>
+I'm open to research chats, academic ideas, and collaborative projects that spark curiosity.<br>
+If you're working on something exciting or just want to exchange thoughts, don’t hesitate to reach out.<br>
 Let’s explore what we can build together in the world of academia.
 
 ## Email
