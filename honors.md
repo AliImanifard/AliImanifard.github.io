@@ -7,12 +7,12 @@ classes: wide smaller-font
 ---
 
 - **Best Paper Award**  
-  The 14th International Smart Grids Conference, IEEE, 2025.
-  Ranked 1st of 150 papers
+  The 14th International Smart Grids Conference, IEEE, 2025.  
+  Ranked 1st of 150 papers  
   Received perfect score (100/100) from all reviewers
 
 - **Best Paper Award**  
-  The 11th International Conference on Web Research (ICWR), IEEE, 2025.
+  The 11th International Conference on Web Research (ICWR), IEEE, 2025.  
   Includes an invitation to submit an extended version to the International Journal of Web Research (IJWR).
 
 - **Ranked 1st in Cumulative GPA & Academic Performance** among all students at graduation, Master's Degree, Khatam University, 2025.
