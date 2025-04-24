@@ -23,6 +23,14 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: contrast
 search: true
+locale: "en-US"
+rtl: # true, false (default) # turns direction of the page into right to left for RTL languages
+name: "Ali Imanifard"
+description: "M.Sc. in Computer Engineering at Khatam University"
+url: "https://aliimanifard.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: "" # the subpath of your site, e.g. "/blog"
+repository: "AliImanifard/AliImanifard.github.io"
+
 
 # Build settings
 markdown: kramdown
@@ -58,34 +66,53 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Ali Imanifard"
+  avatar : "/assets/images/GoogleScholarProfileV1.0.png"
+  bio    : "M.Sc. in Computer Engineering at Khatam University"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:aliimanifard13@gmail.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/aliimanifard/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/AliImanifard"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=NRn57D8AAAAJ&hl=en"
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-researchgate"
+      url: "https://www.researchgate.net/profile/Ali-Imanifard?ev=hdr_xprf"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0009-0009-1178-9135"    
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/aliimanifard"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      # url:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      # url:
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      # url:
+    - label: "Bitbucket"
+      icon: "fab fa-fw fa-bitbucket"
+      # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      # url:
+
 
 defaults:
   # _posts
