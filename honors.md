@@ -7,15 +7,14 @@ classes: wide smaller-font
 ---
 
 - **Best Paper Award**  
-  The 14th International Smart Grids Conference, IEEE, 2025.  
-  Ranked 1st of 150 papers  
+  The _14<sup>th</sup> International Smart Grids Conference, IEEE_, 2025.  
+  Ranked 1<sup>st</sup> of 150 papers  
   Received perfect score (100/100) from all reviewers
 
 - **Best Paper Award**  
-  The 11th International Conference on Web Research (ICWR), IEEE, 2025.  
-  Includes an invitation to submit an extended version to the International Journal of Web Research (IJWR).
+  The _11<sup>th</sup> International Conference on Web Research (ICWR), IEEE_, 2025.  
 
-- **Ranked 1st in Cumulative GPA & Academic Performance** among all students at graduation, Master's Degree, Khatam University, 2025.
+- **Ranked <ins>1<sup>st</sup></ins> in Cumulative GPA & Academic Performance** among all students at graduation, Master's Degree, Khatam University, 2025.
 
 - **Outstanding Graduate Student**, Master's Degree, Khatam University, 2023-2025.
 
@@ -24,7 +23,7 @@ classes: wide smaller-font
 - **Merit-based Scholarship for Outstanding Academic Achievement**, Master's Degree, Khatam University, 2023-2025.  
   Awarded partial tuition exemption for outstanding academic achievement
 
-- **Ranked 2nd in Cumulative GPA & Academic Performance** among all students at graduation, Bachelor's Degree, University of Eyvanekey, 2023.
+- **Ranked <ins>2<sup>nd</sup></ins> in Cumulative GPA & Academic Performance** among all students at graduation, Bachelor's Degree, University of Eyvanekey, 2023.
 
 - **Outstanding Undergraduate Student**, Bachelor's Degree, University of Eyvanekey, 2020-2023.
 
