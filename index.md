@@ -11,8 +11,8 @@ classes: wide smaller-font
 <!-- Swiper Slider Bar -->
 <div class="swiper mySwiper" style="margin-bottom: 2rem;">
   <div class="swiper-wrapper">
-    <div class="swiper-slide"><img src="/assets/images/F16ALEOUA6EQXFQJ1.png" alt="Media 1"></div>
-    <div class="swiper-slide"><img src="/assets/images/vlcsnap-2025-06-26-00h42m47s7412.png" alt="Media 2"></div>
+    <div class="swiper-slide"><img src="/assets/images/vlcsnap-2025-06-26-00h42m47s7412.png" alt="Media 1"></div>
+    <div class="swiper-slide"><img src="/assets/images/F16ALEOUA6EQXFQJ1.png" alt="Media 2"></div>
     <div class="swiper-slide"><img src="/assets/images/20240505_150338.jpg" alt="Media 3"></div>
     <div class="swiper-slide"><img src="/assets/images/photo_6028452423955235366_y.jpg" alt="Media 4"></div>
   </div>
