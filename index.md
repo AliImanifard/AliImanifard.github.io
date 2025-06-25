@@ -5,6 +5,9 @@ permalink: /
 classes: wide smaller-font
 ---
 
+<!-- Swiper CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" />
+
 <!-- Swiper Slider Bar -->
 <div class="swiper mySwiper" style="margin-bottom: 2rem;">
   <div class="swiper-wrapper">
@@ -13,12 +16,32 @@ classes: wide smaller-font
     <div class="swiper-slide"><img src="/assets/images/20240505_150338.jpg" alt="Media 3"></div>
     <div class="swiper-slide"><img src="/assets/images/photo_6028452423955235366_y.jpg" alt="Media 4"></div>
   </div>
-  <!-- Add Pagination -->
   <div class="swiper-pagination"></div>
-  <!-- Add Navigation -->
   <div class="swiper-button-next"></div>
   <div class="swiper-button-prev"></div>
 </div>
+
+<!-- Swiper JS -->
+<script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const swiper = new Swiper('.mySwiper', {
+      loop: true,
+      pagination: {
+        el: '.swiper-pagination',
+        clickable: true,
+      },
+      navigation: {
+        nextEl: '.swiper-button-next',
+        prevEl: '.swiper-button-prev',
+      },
+      autoplay: {
+        delay: 4000,
+      },
+    });
+  });
+</script>
 
 {% capture custom_content %}
 ## About Me
