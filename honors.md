@@ -23,7 +23,8 @@ classes: wide smaller-font
 - **Merit-based Scholarship for Outstanding Academic Achievement**, Master's Degree, Khatam University, 2023-2025.  
   Awarded partial tuition exemption for outstanding academic achievement
 
-- **Ranked <ins>2<sup>nd</sup></ins> in Cumulative GPA & Academic Performance** among all students at graduation, Bachelor's Degree, University of Eyvanekey, 2023.
+- **Ranked <ins>2<sup>nd</sup></ins> in Cumulative GPA & Academic Performance** among all students at graduation, Bachelor's Degree, University of Eyvanekey, 2023.  
+  Ranked 1<sup>st</sup> during the final 18 months of the program
 
 - **Outstanding Undergraduate Student**, Bachelor's Degree, University of Eyvanekey, 2020-2023.
 
