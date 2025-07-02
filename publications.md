@@ -15,7 +15,7 @@ classes: wide smaller-font
 
 2. M. Imani, **A. Imanifard**, B. Majidi, and A. Shamisa,  
    “Dashboard-Driven Machine Learning Analytics and Conceptual LLM Simulations for IIoT Education in Smart Steel Manufacturing,”  
-   _International Journal of Web Research_ (under revision)
+   _International Journal of Web Research_ (in revision)
 
 3. **A. Imanifard**, E. Akhtarkavan, and B. Majidi,  
    “Preserving Intellectual Property in AI-Generated Student Artworks via A<sub>8</sub> Lattice Vector Quantization in Visual Arts Education,”  
@@ -31,23 +31,23 @@ classes: wide smaller-font
 
 6. **A. Imanifard** and B. Majidi,  
    “LiveTutorAgent: Enhancing Educational Communication and Student Well-being With LLM-based Agents for Smart Digital Reality Classroom,”  
-   (in process)
+   (in preparation — analysis and drafting)
 
 7. **A. Imanifard**, B. Majidi, and M. Imani,  
    “RecomPath: An LLM-Empowered Multi-Agent-Based Framework for Intelligent Learning and Research Path Recommendation for Academic Advantage in Competitive Education Market,”  
-   (in process)
+   (in preparation — analysis and drafting)
 
 8. A. Shokri, **A. Imanifard**, and B. Majidi,  
    “Immersive Virtual Reality Wildfire Simulation with Digital Twin Technology for Emergency Training,”  
-   (in process)
+   (in preparation — pre-submission revision)
 
 9. **A. Imanifard**, S. H. Mirian, and B. Majidi,  
    “Software Testing Education with Large Language Model-Empowered Agents,”  
-   (in process)
+   (in preparation — data collection ongoing)
 
 10. **A. Imanifard**, B. Majidi, and A. Shamisa,  
     “LLM-Based Virtual Assistant Agent for Electric Vehicle Mechanics to Predict Defects and Maintain Supply Chain,”  
-    (in process)
+    (in preparation — data collection ongoing)
 
 ---
 
