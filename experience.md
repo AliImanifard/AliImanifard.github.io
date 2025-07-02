@@ -32,8 +32,10 @@ classes: wide smaller-font
 **Period:** 2025 – _present_
 
 - **Instructor:** Prof. Dr. Seyed-Hasan Mirian-Hosseinabadi, Sharif University of Technology  
-- Mentored student groups through the design and execution of academic projects that culminated in the publication of peer-reviewed scientific articles, distinctly separating the mentorship role from the process of scholarly dissemination.  
-- Provided one-on-one tutoring and academic guidance to 30 students by developing, administering, and grading assignments, quizzes, and exams while offering constructive feedback to enhance their understanding and performance.  
+- Mentored student groups through the design and execution of academic projects that culminated in the publication of peer-reviewed scientific articles, distinctly separating the mentorship role from the process of scholarly dissemination.
+- **Mentored student groups** in designing and executing academic projects, providing technical guidance and feedback throughout the course.
+- **Delivered a video lecture on JUnit**, hosted on the university’s Moodle LMS, as a reusable learning resource for students.
+- Provided **one-on-one tutoring** and academic guidance to **30 students** by developing, administering, and grading assignments, quizzes, and exams while offering constructive feedback to enhance their understanding and performance.  
 - Fostered a positive and engaging learning environment by holding regular office hours, effectively communicating course updates, and addressing student questions and concerns regarding the curriculum and assignments.
 
 **Advanced Software Engineering**  
@@ -41,7 +43,7 @@ classes: wide smaller-font
 **Period:** 2024 – _present_
 
 - **Instructor:** Prof. Dr. Seyed-Hasan Mirian-Hosseinabadi, Sharif University of Technology  
-- Delivered individualized tutoring and comprehensive academic support to students by managing grading processes for a cohort of 30, developing and grading assignments, quizzes, and exams, and providing constructive feedback on their performance.  
+- Delivered individualized tutoring and comprehensive academic support to students by managing **grading processes for a class of 30 students**, developing and grading assignments, quizzes, and exams, and providing constructive feedback on their performance.  
 - Fostered a collaborative and engaging learning environment by mentoring students, addressing their inquiries and concerns regarding course material and assignments, and holding regular office hours for personalized support.  
 - Effectively communicated course updates and essential information, consistently earning positive student feedback for my contributions as a teaching assistant.
 
@@ -51,7 +53,7 @@ classes: wide smaller-font
 
 - **Instructor:** Prof. Dr. Babak Majidi  
 - Led student mentorship on LLM Agents and generative AI workflows, introducing chain-of-thought prompting techniques and coaching learners to build custom LLM Agents for real-world NLP tasks.  
-- Guided 70+ students on transformer-based LLMs (e.g., GPT, BERT) during lectures and virtual meetings, providing real-time feedback on hands-on prompt-engineering exercises.  
+- Guided **70+ students** on transformer-based LLMs (e.g., GPT, BERT) during lectures and virtual meetings, providing real-time feedback on hands-on prompt-engineering exercises.  
 - Compiled and communicated cutting-edge LLM research trends—including prompting best practices, retrieval-augmented generation, and LLM Agent integration with external APIs—enabling students to critically appraise and apply recent publications.  
 - Provided one-on-one tutoring in advanced NLP frameworks, locally hosted LLM integration, and ethical AI considerations, resulting in a measurable increase in student project quality.  
 - Earned consistently outstanding feedback for clarity and engagement in explaining lessons on machine learning, deep learning, and deploying LLMs in real-world applications.
@@ -61,6 +63,6 @@ classes: wide smaller-font
 **Period:** 2024 - 2024
 
 - **Instructor:** Prof. Dr. Shiva Kamkar  
-- Delivered lectures on “An Introduction to the R Programming Language” and “Data Visualization in R with ggplot2 (Beginning to Advanced),” led weekly discussion sections, and conducted 13 recitation sessions, effectively clarifying complex concepts while guiding students through problem-solving and application of statistical learning theory.  
+- **Delivered lectures** on “An Introduction to the R Programming Language” and “Data Visualization in R with ggplot2 (Beginning to Advanced),” **led weekly discussion sections**, and conducted **13 recitation sessions**, effectively clarifying complex concepts while guiding students through problem-solving and application of statistical learning theory.  
 - Developed, administered, and graded assignments, quizzes, and exams, and provided constructive feedback on student understanding.  
 - Provided comprehensive academic support by addressing student questions and concerns regarding course material and assignments, thereby contributing to a positive and engaging learning environment.
