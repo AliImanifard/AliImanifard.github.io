@@ -6,7 +6,6 @@ author_profile: true
 classes: wide smaller-font
 ---
 
-
 ## Teaching & Research Experiences  
 
 ### Graduate Research Assistant
@@ -16,7 +15,7 @@ classes: wide smaller-font
 **Period:** 2023 – _present_
 
 - **Director:** Prof. Dr. Babak Majidi  
-- **Contributed to 13 publications** by conducting comprehensive literature reviews, synthesizing key findings, and authoring manuscript sections.  
+- **Contributed to 16 publications** by conducting comprehensive literature reviews, synthesizing key findings, and authoring manuscript sections.  
 - **Designed and implemented data-collection protocols**, including surveys, questionnaires, and experimental setups, gathering qualitative and quantitative data across fieldwork and laboratory studies.  
 - **Developed research methodologies and hypotheses**, co-designing over a dozen experiments and surveys to rigorously test research questions.  
 - **Analyzed complex datasets** using statistical and computational techniques, presenting actionable insights that informed iterative study designs.  
@@ -49,7 +48,7 @@ classes: wide smaller-font
 
 **Advanced Artificial Intelligence**  
 **Institution:** Khatam University  
-**Period:** 2024 – _present_
+**Period:** 2025 – 2025
 
 - **Instructor:** Prof. Dr. Babak Majidi  
 - Led student mentorship on LLM Agents and generative AI workflows, introducing chain-of-thought prompting techniques and coaching learners to build custom LLM Agents for real-world NLP tasks.  
@@ -60,9 +59,23 @@ classes: wide smaller-font
 
 **Statistical Learning Theory**  
 **Institution:** Khatam University  
-**Period:** 2024 - 2024
+**Period:** 2024 - 2025
 
 - **Instructor:** Prof. Dr. Shiva Kamkar  
 - **Delivered lectures** on “An Introduction to the R Programming Language” and “Data Visualization in R with ggplot2 (Beginning to Advanced),” **led weekly discussion sections**, and conducted **13 recitation sessions**, effectively clarifying complex concepts while guiding students through problem-solving and application of statistical learning theory.  
 - Developed, administered, and graded assignments, quizzes, and exams, and provided constructive feedback on student understanding.  
 - Provided comprehensive academic support by addressing student questions and concerns regarding course material and assignments, thereby contributing to a positive and engaging learning environment.
+
+---
+
+## Work Experience
+### AI Research Engineer
+**Negin Rose Sepahan**  
+**Textile Company**  
+**Period:** 2025 – _present_
+
+- Commercial Fabric & Consumer Textile Manufacturing
+- Develop and implement machine learning models and automated software tools to support internal analytics and business workflow optimization.
+- Research and design multi-agent LLM frameworks for academic knowledge synthesis, focusing on generating structured educational content from public scholarly literature.
+- Apply statistical and machine learning methods to analyze market data and support internal data-driven decision tools.
+- Build recommendation systems for consumer products, applying machine learning techniques to improve personalization and user experience.
