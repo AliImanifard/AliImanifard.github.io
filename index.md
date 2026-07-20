@@ -46,9 +46,8 @@ classes: wide smaller-font
 {% capture custom_content %}
 ## About Me
 <div style="text-align: justify; font-size: 20px;">
-I am a Master’s student in Computer Science, ranked <strong>1st out of 100+ students</strong> in my cohort for two consecutive years. I have maintained a <strong>perfect GPA of 20.00/20.00 (maximum score)</strong> throughout my master’s program to date. During the final 18 months of my undergraduate studies, I also ranked first in my class. My research focuses on <strong>Artificial Intelligence, Machine Learning, Natural Language Processing, Large Language Models, and AI Agents</strong>. I have authored <strong>13+ academic publications</strong>, including  work recognized with <strong>two IEEE Best Paper Awards</strong>. In 2024, one of my papers received <strong>1st place out of 150 submissions</strong> at IEEE SGC. Over the past two years, I have worked as both a <strong>Research Assistant</strong> and <strong>Teaching Assistant</strong>, supporting various faculty members in research and instruction. Notably, I had the opportunity to teach under the guidance of <a href="https://sharif.edu/~hmirian/">Dr. Seyed-Hassan Mirian-Hosseinabadi</a>, an adjunct at my university and a professor at <strong>Sharif University of Technology</strong>, widely regarded as Iran’s leading engineering institution. I am deeply committed to high-impact, meaningful research and aspire to contribute actively to the academic community at the <strong>Ph.D. level</strong>.
+Ranked <strong>1<sup>st</sup> out of 100+ students</strong> in my M.Sc. cohort for two consecutive years and in myfinal 18 months of B.Sc. study, achieving a <strong>GPA of 20.00/20.00 (full marks in every course),</strong> with top performance throughout. Authored 16+ publications focusing on Human Centered AI and Educational Technology, including an <strong>IEEE Best Paper Award</strong> and an <strong>IEEE Selected Paper Award;</strong> placed 1<sup>st</sup> out of 150 submissions at IEEE SGC 2024. Served three years as Research and Teaching Assistant dedicated to developing pedagogical tools and adaptive learning frameworks. Committed to advancing scholarly research in AI-driven education and student well-being at the Ph.D.level.
 </div>
-
 
 {: .small}
 
@@ -91,6 +90,9 @@ I am a Master’s student in Computer Science, ranked <strong>1st out of 100+ st
 ### Academic Writing Tools
 - LaTeX, Overleaf, EndNote, Mendeley, Zotero
 
+###  English Test Scores – TOEFL (iBT): 5.0/6.0 (=100/120) (overall score)
+- Test Date: July 1<sup>st</sup> 2026
+- Reading: 5.5 /6.0
 
 
 {: .small}
