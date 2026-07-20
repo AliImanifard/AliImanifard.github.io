@@ -14,11 +14,11 @@ classes: wide smaller-font
 - **Best Paper Award**  
   The _11<sup>th</sup> International Conference on Web Research (ICWR), IEEE_, 2025.  
 
+- **Outstanding Graduate Student**, Master's Degree, Khatam University, 2025.
+
+- **Outstanding Graduate Researcher**, Master's Degree, Khatam University, 2025.
+
 - **Ranked <ins>1<sup>st</sup></ins> in Cumulative GPA & Academic Performance** among all students at graduation, Master's Degree, Khatam University, 2025.
-
-- **Outstanding Graduate Student**, Master's Degree, Khatam University, 2023-2025.
-
-- **Outstanding Graduate Researcher**, Master's Degree, Khatam University, 2023-2025.
 
 - **Merit-based Scholarship for Outstanding Academic Achievement**, Master's Degree, Khatam University, 2023-2025.  
   Awarded partial tuition exemption for outstanding academic achievement
